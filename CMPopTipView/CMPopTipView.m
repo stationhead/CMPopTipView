@@ -813,7 +813,7 @@
         self.titleFont = [UIFont boldSystemFontOfSize:16.0];
         self.titleColor = [UIColor whiteColor];
         self.titleAlignment = NSTextAlignmentCenter;
-        self.textFont = [UIFont fontWithName:@"CicularStd-Book" size:14.0];;
+        self.textFont = [UIFont boldSystemFontOfSize:14.0];
 		self.textColor = [UIColor whiteColor];
 	}
 	return self;
