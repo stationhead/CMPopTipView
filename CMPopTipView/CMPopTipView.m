@@ -762,7 +762,7 @@
 		self.textFont = [UIFont boldSystemFontOfSize:14.0];
 		self.textColor = [UIColor whiteColor];
 		self.textAlignment = NSTextAlignmentCenter;
-		self.backgroundColor = [UIColor colorWithRed:255.0/255.0 green:52.0/255.0 blue:55.0/255.0 alpha:0.8];
+		self.backgroundColor = [UIColor colorWithRed:255.0/255.0 green:52.0/255.0 blue:55.0/255.0 alpha:1.0];
         self.has3DStyle = NO;
         self.borderColor = [UIColor blackColor];
         self.hasShadow = NO;
